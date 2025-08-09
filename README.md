@@ -1,22 +1,7 @@
 # Aishmita Yonzon - Portfolio Website
 
-A modern, minimalistic portfolio website showcasing Aishmita Yonzon's skills as an aspiring IT Engineer Student & Makeup Artist.
+A modern, minimalistic portfolio website showcasing my skills as an aspiring IT Engineer Student & Makeup Artist.
 
-## 🌟 Features
-
-### Must Have Features
-- ✅ **Personal Details** - Comprehensive information about Aishmita
-- ✅ **Skills Section** - Interactive skill bars with animations
-- ✅ **Resume Section** - Timeline-based education and experience
-- ✅ **Good Design** - Clean, modern, and professional layout
-- ✅ **Better User Experience** - Intuitive navigation and smooth interactions
-- ✅ **Contact Form** - Functional contact form with validation
-
-### Nice to Have Features
-- ✅ **Good Animations** - Smooth scroll animations, hover effects, and transitions
-- ✅ **Responsive Design** - Mobile-first approach with excellent mobile experience
-- ✅ **Modern UI/UX** - Contemporary design with gradient accents
-- ✅ **Interactive Elements** - Hover effects, ripple effects, and smooth scrolling
 
 ## 🚀 Technologies Used
 
@@ -90,14 +75,6 @@ Update `assets/js/custom.js`:
 - Form submission handling
 - Animation triggers
 - Interactive features
-
-## 🌐 Deployment
-
-The website can be deployed to:
-- **GitHub Pages** - Free hosting for static sites
-- **Netlify** - Easy deployment with drag & drop
-- **Vercel** - Fast deployment with Git integration
-- **Any web hosting service** - Traditional hosting options
 
 ## 📧 Contact Form
 
